@@ -1,8 +1,8 @@
 # Missing Pixels Task
 Repository for Missing Pixels task from AI class.
 
-Training code (read-only, only for checking the output): [colab link](https://colab.research.google.com/drive/190PMGtKssth3qN9GOeYAsU3ZZjk2gTVy?usp=sharing)
-Testing code (runnable in Google Colab): [Google Colab](https://colab.research.google.com/drive/1xeWMM-3jQGHSL9NsRZutu6May4qJaW-W?usp=sharing)
+Training code (read-only, only for checking the output): [Google Colab](https://colab.research.google.com/drive/190PMGtKssth3qN9GOeYAsU3ZZjk2gTVy?usp=sharing).  
+Testing code (runnable in Google Colab): [Google Colab](https://colab.research.google.com/drive/1xeWMM-3jQGHSL9NsRZutu6May4qJaW-W?usp=sharing).  
 
 The Jupyter Notebook files for training and testing code are also available as missing_pixels_training.ipynb and missing_pixels_testing.ipynb in this repository.
 
